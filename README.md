@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarahEslami
 - 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning Google Cloude Platform
+- 🌱 I’m currently learning Google Cloud Platform
 - 📫 You can reach me via email: sarah.eslaami@gmail.com
 
 <!---
